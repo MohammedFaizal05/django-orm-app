@@ -64,3 +64,4 @@ admin.site.register(Student,StudentAdmin)
 
 
 ## RESULT
+Thus the code has been executed successfully.
